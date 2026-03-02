@@ -30,8 +30,8 @@ Lightfast is open source and built in public. We believe operating infrastructur
 Our community is for engineers and teams building with agents. Whether you're connecting your first tool or orchestrating complex multi-agent workflows, you'll find resources, patterns, and people who can help.
 
 <p align="left">
-  <a href="https://discord.gg/YqPDfcar2C"><img src="https://img.shields.io/badge/-5865F2?style=flat-square&logo=discord&logoColor=white" height="28" alt="Discord"></a>&nbsp;
-  <a href="https://x.com/lightfastai"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="28" alt="X"></a>&nbsp;
+  <a href="https://discord.gg/YqPDfcar2C"><img src="https://raw.githubusercontent.com/lightfastai/.github/main/profile/assets/discord.svg" height="28" alt="Discord"></a>&nbsp;
+  <a href="https://x.com/lightfastai"><img src="https://raw.githubusercontent.com/lightfastai/.github/main/profile/assets/x.svg" height="28" alt="X"></a>&nbsp;
   <a href="https://www.linkedin.com/company/lightfastai"><img src="https://raw.githubusercontent.com/lightfastai/.github/main/profile/assets/linkedin.svg" height="28" alt="LinkedIn"></a>
 </p>
 
