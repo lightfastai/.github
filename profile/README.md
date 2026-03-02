@@ -6,10 +6,10 @@ Our mission is to be the **operating layer for every team** — so agents and pe
 
 ## Getting Started
 
-- [Lightfast Console](https://lightfast.ai/console?utm_source=github&utm_medium=web&utm_campaign=profile) — connect your tools, observe events, and search decisions across your team. Get started for free.
-- [Documentation](https://lightfast.ai/docs) — learn about Lightfast's architecture, integrations, and APIs.
-- [Chat](https://lightfast.ai/chat?utm_source=github&utm_medium=web&utm_campaign=profile) — ask questions across your connected tools and get cited, verifiable answers.
-- [Need help?](https://lightfast.ai/docs/help) We're available on [GitHub](https://github.com/lightfastai/lightfast/issues) and [Discord](https://discord.gg/lightfast) — feel free to reach out and join our community!
+- [Lightfast Console](https://lightfast.ai/early-access?utm_source=github&utm_medium=web&utm_campaign=profile) — connect your tools, observe events, and search decisions across your team. Join the early access to get started.
+- [Documentation](https://lightfast.ai/docs/get-started/overview?utm_source=github&utm_medium=web&utm_campaign=profile) — learn about Lightfast's architecture, integrations, and APIs.
+- [API Reference](https://lightfast.ai/docs/api-reference/getting-started/overview?utm_source=github&utm_medium=web&utm_campaign=profile) — explore the REST API, TypeScript SDK, and MCP server.
+- [Need help?](https://lightfast.ai/docs/get-started/overview) We're available on [GitHub](https://github.com/lightfastai/lightfast/issues) and [Discord](https://discord.gg/YqPDfcar2C) — feel free to reach out and join our community!
 
 ## How It Works
 
@@ -33,7 +33,7 @@ Lightfast is open source and built in public. We believe operating infrastructur
 Our community is for engineers and teams building with agents. Whether you're connecting your first tool or orchestrating complex multi-agent workflows, you'll find resources, patterns, and people who can help.
 
 <h3 align="left">
-  <a href="https://discord.gg/lightfast"><img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="32" alt="Join Discord"></a> <a href="https://x.com/lightaboratory"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" height="32" alt="Follow on X"></a>
+  <a href="https://discord.gg/YqPDfcar2C"><img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="32" alt="Join Discord"></a> <a href="https://x.com/lightfastai"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" height="32" alt="Follow on X"></a> <a href="https://www.linkedin.com/company/lightfastai"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"></a>
 </h3>
 
 ### Contributing
