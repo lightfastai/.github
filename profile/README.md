@@ -1,12 +1,10 @@
-# Lightfast
-
 Our mission is to be the **operating layer for every team** — so agents and people can observe, reason, and act across your entire tool stack through a single system.
 
 [Lightfast](https://lightfast.ai?utm_source=github&utm_medium=web&utm_campaign=profile) is an open-source operating infrastructure between your agents and apps. We ingest every event across your tools, build a living graph of decisions, and let agents and people search, reason, and act — without knowing which tools exist or how they work.
 
 ## Getting Started
 
-- [Lightfast Console](https://lightfast.ai/early-access?utm_source=github&utm_medium=web&utm_campaign=profile) — connect your tools, observe events, and search decisions across your team. Join the early access to get started.
+- [Lightfast](https://lightfast.ai?utm_source=github&utm_medium=web&utm_campaign=profile) — connect your tools, observe events, and search decisions across your team. Join the early access to get started.
 - [Documentation](https://lightfast.ai/docs/get-started/overview?utm_source=github&utm_medium=web&utm_campaign=profile) — learn about Lightfast's architecture, integrations, and APIs.
 - [API Reference](https://lightfast.ai/docs/api-reference/getting-started/overview?utm_source=github&utm_medium=web&utm_campaign=profile) — explore the REST API, TypeScript SDK, and MCP server.
 - [Need help?](https://lightfast.ai/docs/get-started/overview) We're available on [GitHub](https://github.com/lightfastai/lightfast/issues) and [Discord](https://discord.gg/YqPDfcar2C) — feel free to reach out and join our community!
@@ -25,7 +23,6 @@ Our mission is to be the **operating layer for every team** — so agents and pe
 Lightfast is open source and built in public. We believe operating infrastructure should be transparent, auditable, and community-driven. A few of our projects:
 
 - [lightfast](https://github.com/lightfastai/lightfast) — the core platform: console, relay, gateway, backfill services, and integrations.
-- [chat](https://github.com/lightfastai/chat) — an open-source, production-ready AI chat application featuring Claude Sonnet 4, GPT-4o, real-time messaging, and modern UI.
 - [homebrew-tap](https://github.com/lightfastai/homebrew-tap) — install Lightfast CLI tools via Homebrew.
 
 ## Community
