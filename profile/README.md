@@ -32,7 +32,7 @@ Our community is for engineers and teams building with agents. Whether you're co
 <p align="left">
   <a href="https://discord.gg/YqPDfcar2C"><img src="https://img.shields.io/badge/-5865F2?style=flat-square&logo=discord&logoColor=white" height="28" alt="Discord"></a>&nbsp;
   <a href="https://x.com/lightfastai"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="28" alt="X"></a>&nbsp;
-  <a href="https://www.linkedin.com/company/lightfastai"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/company/lightfastai"><img src="https://raw.githubusercontent.com/lightfastai/.github/main/profile/assets/linkedin.svg" height="28" alt="LinkedIn"></a>
 </p>
 
 ### Contributing
