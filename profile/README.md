@@ -29,9 +29,11 @@ Lightfast is open source and built in public. We believe operating infrastructur
 
 Our community is for engineers and teams building with agents. Whether you're connecting your first tool or orchestrating complex multi-agent workflows, you'll find resources, patterns, and people who can help.
 
-<h3 align="left">
-  <a href="https://discord.gg/YqPDfcar2C"><img src="https://img.shields.io/badge/Discord-Join%20us-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="32" alt="Join Discord"></a> <a href="https://x.com/lightfastai"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" height="32" alt="Follow on X"></a> <a href="https://www.linkedin.com/company/lightfastai"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn"></a>
-</h3>
+<p align="left">
+  <a href="https://discord.gg/YqPDfcar2C"><img src="https://img.shields.io/badge/-5865F2?style=flat-square&logo=discord&logoColor=white" height="28" alt="Discord"></a>&nbsp;
+  <a href="https://x.com/lightfastai"><img src="https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white" height="28" alt="X"></a>&nbsp;
+  <a href="https://www.linkedin.com/company/lightfastai"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn"></a>
+</p>
 
 ### Contributing
 
